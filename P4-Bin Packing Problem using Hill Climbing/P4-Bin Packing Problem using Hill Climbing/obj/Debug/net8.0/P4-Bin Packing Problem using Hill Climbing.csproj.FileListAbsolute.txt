@@ -1,0 +1,14 @@
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\bin\Debug\net8.0\P4-Bin Packing Problem using Hill Climbing.exe
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\bin\Debug\net8.0\P4-Bin Packing Problem using Hill Climbing.deps.json
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\bin\Debug\net8.0\P4-Bin Packing Problem using Hill Climbing.runtimeconfig.json
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\bin\Debug\net8.0\P4-Bin Packing Problem using Hill Climbing.dll
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\bin\Debug\net8.0\P4-Bin Packing Problem using Hill Climbing.pdb
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\obj\Debug\net8.0\P4-Bin Packing Problem using Hill Climbing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\obj\Debug\net8.0\P4-Bin Packing Problem using Hill Climbing.AssemblyInfoInputs.cache
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\obj\Debug\net8.0\P4-Bin Packing Problem using Hill Climbing.AssemblyInfo.cs
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\obj\Debug\net8.0\P4-Bin Packing Problem using Hill Climbing.csproj.CoreCompileInputs.cache
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\obj\Debug\net8.0\P4-Bin Packing Problem using Hill Climbing.dll
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\obj\Debug\net8.0\refint\P4-Bin Packing Problem using Hill Climbing.dll
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\obj\Debug\net8.0\P4-Bin Packing Problem using Hill Climbing.pdb
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\obj\Debug\net8.0\P4-Bin Packing Problem using Hill Climbing.genruntimeconfig.cache
+C:\Users\PRITAM\source\repos\P4-Bin Packing Problem using Hill Climbing\P4-Bin Packing Problem using Hill Climbing\obj\Debug\net8.0\ref\P4-Bin Packing Problem using Hill Climbing.dll
